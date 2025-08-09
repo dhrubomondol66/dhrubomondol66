@@ -29,8 +29,6 @@
 
 ### 📂 Projects
 
-### 📂 Projects
-
 - [Medical Appointment System (PHP)](https://github.com/dhrubomondol66/PHP_code)  
   A web app to book doctor appointments easily.
 
