@@ -29,11 +29,16 @@
 
 ### 📂 Projects
 
-- [Doc-App System](https://github.com/dhrubomondol66/medical-appointment)  
+### 📂 Projects
+
+- [Medical Appointment System (PHP)](https://github.com/dhrubomondol66/PHP_code)  
   A web app to book doctor appointments easily.
 
-- [Potato Leaf Disease Detection](https://github.com/dhrubomondol66/potato-leaf-disease)  
-  ML model to detect diseases from potato leaf images.
+- [Smart Transport System](https://github.com/dhrubomondol66/Smart-Transport-BD)  
+  A project focused on modernizing transportation management in Bangladesh.
+
+- [InterviewDotCom](https://github.com/dhrubomondol66/InterviewDotCom)  
+  A platform for interview preparation and resources.
 
 ---
 
