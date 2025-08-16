@@ -31,10 +31,17 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight" height="180px"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight" height="180px"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=compact&theme=tokyonight" />
