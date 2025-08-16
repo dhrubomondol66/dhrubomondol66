@@ -44,14 +44,7 @@
 
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'doughnut',
-    data:{
-      labels:['Python','PHP','JavaScript','C++'],
-      datasets:[{data:[50,20,20,10],backgroundColor:['#FFE873','#777BB4','#F7DF1E','#00599C']}]
-    },
-    options:{cutout: '70%'}
-  }" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=pie&theme=tokyonight" />
 </p>
 
 ---
