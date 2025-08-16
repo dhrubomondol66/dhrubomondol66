@@ -51,7 +51,7 @@
 
 ## 📂 Featured Projects
 
-- 🚑 [Medical Appointment System (PHP)](https://github.com/dhrubomondol66/PHP_code) – A web app to book doctor appointments.  
+- 🚑 [Medical Appointment System (PHP)](https://github.com/dhrubomondol66/DocApp) – A web app to book doctor appointments.  
 - 🚌 [Smart Transport System](https://github.com/dhrubomondol66/Smart-Transport-BD) – A project for modernizing transportation management in Bangladesh.  
 - 🎯 [InterviewDotCom](https://github.com/dhrubomondol66/InterviewDotCom) – A platform for interview preparation and resources.  
 
