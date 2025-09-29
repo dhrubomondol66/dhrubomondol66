@@ -42,8 +42,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol&show_icons=true&theme=tokyonight" alt="Dhrubo's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubomondol&theme=tokyonight" alt="Dhrubo's GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruboMondol&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dhrubo's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DhruboMondol&theme=tokyonight&hide_border=false" alt="Dhrubo's GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruboMondol&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
 </p>
 
 
