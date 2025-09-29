@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b8297d6c850c3646d5a67.gif" width="100%" alt="Developer Banner">
+</p>
+
+---
+
 ## 🛠️ Skills  
 
 ### 🚀 Languages  
@@ -36,21 +42,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubomondol66&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruboMondol&show_icons=true&theme=tokyonight" alt="Dhrubo's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruboMondol&theme=tokyonight" alt="Dhrubo's GitHub Streak" width="48%">
 </p>
-
----
-
-## 🧠 Insights & Analysis  
-
-- 💻 **Most Used Language:** Python  
-- 🌟 **Most Starred Repo:** [YourRepoName](https://github.com/dhrubomondol66/YourRepoName)  
-- 📈 **Weekly Contributions:** Most active on weekdays  
-- 🔥 **Longest Streak:** 45 days  
-- 📊 **Total Commits This Year:** 450+  
-
-> "Focus on building, learning, and contributing consistently. Small steps lead to big results."  
 
 ---
 
