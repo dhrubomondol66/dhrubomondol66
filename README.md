@@ -42,9 +42,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruboMondol&show_icons=true&theme=tokyonight" alt="Dhrubo's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruboMondol&theme=tokyonight" alt="Dhrubo's GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol&show_icons=true&theme=tokyonight" alt="Dhrubo's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubomondol&theme=tokyonight" alt="Dhrubo's GitHub Streak" width="48%">
 </p>
+
 
 ---
 
