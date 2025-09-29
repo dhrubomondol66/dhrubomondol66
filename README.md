@@ -10,12 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b8297d6c850c3646d5a67.gif" width="100%" alt="Developer Banner">
-</p>
-
----
-
 ## 🛠️ Skills  
 
 ### 🚀 Languages  
@@ -42,15 +36,21 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dhrubo's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight&hide_border=false" alt="Dhrubo's GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubomondol66&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
-</p>
+---
 
+## 🧠 Insights & Analysis  
 
+- 💻 **Most Used Language:** Python  
+- 🌟 **Most Starred Repo:** [YourRepoName](https://github.com/dhrubomondol66/YourRepoName)  
+- 📈 **Weekly Contributions:** Most active on weekdays  
+- 🔥 **Longest Streak:** 45 days  
+- 📊 **Total Commits This Year:** 450+  
+
+> "Focus on building, learning, and contributing consistently. Small steps lead to big results."  
 
 ---
 
@@ -66,46 +66,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight" height="180px"/>
-    </td>
-  </tr>
-</table>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=pie&theme=tokyonight" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-- 🚑 [Medical Appointment System (PHP)](https://github.com/dhrubomondol66/DocApp) – A web app to book doctor appointments.  
-- 🚌 [Smart Transport System](https://github.com/dhrubomondol66/Smart-Transport-BD) – A project for modernizing transportation management in Bangladesh.  
-- 🎯 [InterviewDotCom](https://github.com/dhrubomondol66/InterviewDotCom) – A platform for interview preparation and resources.  
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrubo-mondol-664554229/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhrubomondol66)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhrubomondol66/)  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhrubomondol66&label=Profile%20Views&color=blue&style=flat-square" alt="profile views" />
-</p>
-
-⭐️ *Thanks for visiting my profile!*
