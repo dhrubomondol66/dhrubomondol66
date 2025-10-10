@@ -51,6 +51,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight" alt="Top Languages" width="48%">
 </p>
 
+---
+
+## 📈 GitHub Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubomondol66&theme=react-dark&area=true&hide_border=true" width="80%" alt="Dhrubo's GitHub Activity Graph"/>
+</p>
 
 
 ---
