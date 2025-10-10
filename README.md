@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+%26+ML+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight&hide=Python,Django" alt="Top Languages" width="48%">
 </p>
+
 
 ---
 
