@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Dhrubo Mondol 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Futuristic Coding GIF">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Blue Futuristic Code GIF">
 </p>
 
 
