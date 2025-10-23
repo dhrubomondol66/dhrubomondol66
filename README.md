@@ -1,8 +1,28 @@
-<!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Dhrubo Mondol</h1>
-<h3 align="center">💻 Full Stack Developer | 🌐 Tech Explorer | 🧠 AI & Data Enthusiast</h3>
+<!-- 🌟 HEADER SECTION -->
+<h1 align="center">Hi, I'm Dhrubo Mondol 👋</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Developer GIF">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+%26+ML+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b8297d6c850c3646d5a67.gif" width="100%" alt="Developer Banner">
+</p>
+
+---
+
+## 🧠 About Me  
+
+- 💻 Full Stack Developer with a focus on **Python (Django)** and **JavaScript (React)**  
+- 🌱 Currently exploring **Machine Learning** and **API Integrations**  
+- 💬 Ask me about **Web Development**, **Databases**, and **Backend Design**  
+- ⚡ Fun fact: I code better with **coffee ☕** and **lo-fi beats 🎧**
 
 ---
 
@@ -29,19 +49,10 @@
 
 ---
 
-## 💡 About Me  
-
-- 🔭 Currently exploring **Django REST Framework** & **PostgreSQL**  
-- 🌱 Learning more about **AI integration** and **Cloud Deployment**  
-- 💬 Ask me about **Full Stack Development, Python, and Databases**  
-- ⚡ Fun fact: I code better with coffee ☕ and lo-fi beats 🎧  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dhrubo's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%">
 </p>
 
@@ -51,26 +62,34 @@
 
 ---
 
-## ⚙️ Contribution Graph  
+## 📈 Contribution Graph  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubomondol66&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubomondol66&theme=react-dark&area=true&hide_border=true" width="90%" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake  
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/dhrubomondol66/dhrubomondol66/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:dhrubomondol66@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dhrubomondol66"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dhrubomondol66"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:dhrubomondol66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/dhrubomondol66">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dhrubomondol66">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
