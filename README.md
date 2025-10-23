@@ -2,8 +2,9 @@
 <h1 align="center">Hi, I'm Dhrubo Mondol 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Laptop Coding GIF">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300" alt="Matrix Code GIF">
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+%26+ML+Enthusiast;Always+Learning+New+Things" />
