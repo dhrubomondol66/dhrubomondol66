@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b8297d6c850c3646d5a67.gif" width="100%" alt="Developer Banner">
+  <img src="https://media.giphy.com/media/3o6ZtpxPzj6z7t6X6I/giphy.gif" width="100%" alt="Glitch Effect Banner">
 </p>
 
 ---
