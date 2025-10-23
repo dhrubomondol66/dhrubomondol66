@@ -53,12 +53,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dhrubomondol66&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%">
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight&langs_count=5" alt="Top Languages" width="48%">
