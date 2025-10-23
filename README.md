@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Dhrubo Mondol 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Developer GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
 <p align="center">
