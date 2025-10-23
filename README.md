@@ -11,12 +11,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/3o6ZtpxPzj6z7t6X6I/giphy.gif" width="100%" alt="Typing Code Banner">
-</p>
-
-
----
+</p> -->
 
 ## 🧠 About Me  
 
