@@ -29,7 +29,8 @@
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
-## 🛠️ Skills  
+
+## 🛠️ Skills
 
 ### 🚀 Languages  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
