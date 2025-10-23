@@ -1,7 +1,8 @@
 <!-- 🌟 HEADER SECTION -->
 <h1 align="center">Hi, I'm Dhrubo Mondol 👋</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Python Data Science Animation">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="Python Logo Animation">
 </p>
 
 <p align="center">
