@@ -25,7 +25,9 @@
 - ⚡ Fun fact: I code better with **coffee ☕** and **lo-fi beats 🎧**
 
 ---
-<p><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"></p>
+<p>
+  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 ## 🛠️ Skills  
   <!-- Left side: Badges -->
