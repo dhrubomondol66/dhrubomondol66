@@ -1,7 +1,7 @@
 <!-- 🌟 HEADER SECTION -->
 <h1 align="center">Hi, I'm Dhrubo Mondol 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="Python Logo Animation">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300" alt="Python Coding GIF">
 </p>
 
 <p align="center">
