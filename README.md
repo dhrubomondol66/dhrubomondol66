@@ -73,7 +73,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhrubomondol66/dhrubomondol66/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-contributor-snake.vercel.app/api?user=dhrubomondol66&theme=tokyonight&background=0d1117" alt="GitHub Contribution Snake" width="80%">
 </p>
 
 ---
