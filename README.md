@@ -1,10 +1,8 @@
 <!-- 🌟 HEADER SECTION -->
 <h1 align="center">Hi, I'm Dhrubo Mondol 👋</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Blue Futuristic Code GIF">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="Python Logo Animation">
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+%26+ML+Enthusiast;Always+Learning+New+Things" />
@@ -47,6 +45,10 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Blue Futuristic Code GIF">
+</p>
 
 ---
 
