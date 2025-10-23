@@ -1,12 +1,8 @@
-# Hi, I'm Dhrubo Mondol 👋
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Dhrubo Mondol</h1>
+<h3 align="center">💻 Full Stack Developer | 🌐 Tech Explorer | 🧠 AI & Data Enthusiast</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Developer Gif"> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+%26+ML+Enthusiast;Always+Learning+New+Things" /> </p>
-
----
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b8297d6c850c3646d5a67.gif" width="100%" alt="Developer Banner">
-</p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -25,7 +21,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-
 ### 🧰 Tools & Databases  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
@@ -34,38 +29,54 @@
 
 ---
 
+## 💡 About Me  
+
+- 🔭 Currently exploring **Django REST Framework** & **PostgreSQL**  
+- 🌱 Learning more about **AI integration** and **Cloud Deployment**  
+- 💬 Ask me about **Full Stack Development, Python, and Databases**  
+- ⚡ Fun fact: I code better with coffee ☕ and lo-fi beats 🎧  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dhrubo's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight&hide_border=false" alt="Dhrubo's GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight&langs_count=5" alt="Top Languages" width="48%">
 </p>
 
-
 ---
 
-## 📈 GitHub Contribution Graph  
-
+## ⚙️ Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubomondol66&theme=react-dark&area=true&hide_border=true" width="80%" alt="Dhrubo's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubomondol66&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhrubomondol66/dhrubomondol66/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-twitter/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:dhrubomondol66@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/dhrubomondol66"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dhrubomondol66"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100">
+  <br>
+  <b>✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</b>
 </p>
