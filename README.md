@@ -64,9 +64,7 @@
   <img src="https://streak-stats.demolab.com?user=dhrubomondol66&theme=tokyonight" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight&langs_count=5" width="48%">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight&langs_count=5)
 
 ---
 
