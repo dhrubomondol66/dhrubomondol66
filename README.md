@@ -59,12 +59,13 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://streak-stats.demolab.com?user=dhrubomondol66&theme=tokyonight" width="48%">
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubomondol66&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhrubomondol66&theme=tokyonight" width="48%"> 
+</p> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight&langs_count=5" alt="Top Languages" width="48%"> 
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=donut&theme=tokyonight&langs_count=5)
 
 ---
 
