@@ -58,7 +58,8 @@
 ---
 
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhrubomondol66)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=dhrubomondol66&theme=tokyonight)
+
 
 ## 🐍 Contribution Snake  
 
