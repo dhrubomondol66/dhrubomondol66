@@ -60,8 +60,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhrubomondol66&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dhrubomondol66&theme=tokyonight" width="48%" style="border-radius: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=compact&theme=tokyonight" width="48%" style="border-radius: 50%;" />
 </p>
 
 
