@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhrubomondol66&theme=tokyonight" height="200" width="30%" style="border-radius: 50%;" />
+  <img src="https://streak-stats.demolab.com/?user=dhrubomondol66&theme=tokyonight" height="200" width="40%" style="border-radius: 50%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubomondol66&layout=compact&theme=tokyonight" height="200" width="70%" style="border-radius: 50%;" />
 </p>
 
